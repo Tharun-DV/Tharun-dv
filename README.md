@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharun D V</h1>
-<h3 align="center">A C0MPUT3R SC13NC3 STUDENT</h3>
+<h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindbender&label=Profile%20views&color=0e75b6&style=flat" alt="mindbender" /> </p>
 
