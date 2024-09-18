@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en" alt="tharun-dv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&" alt="tharun-dv" /></p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THARUN-DV&bg_color=d1e9ff&color=000000&line=4c8a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
