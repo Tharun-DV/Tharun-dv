@@ -1,4 +1,4 @@
-Here is the modified version with added spaces in the GitHub stats section:
+
 
 <h1 align="center">Hi 👋, I'm Tharun D V</h1>
 <h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3>
