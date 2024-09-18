@@ -52,12 +52,15 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 **GitHub Stats**
 --------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="tharun-dv" /></p>
-&nbsp;
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="tharun-dv" /</p>
+<br />
+<br />
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
+<br />
+<br />
+<br />
 
-&nbsp;
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&theme=radical" alt="tharun-dv" /></p>
 
 **LeetCode Stats**
