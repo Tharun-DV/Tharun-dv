@@ -1,4 +1,6 @@
 
+<!--img src="https://github.com/user-attachments/assets/3ec40ab4-0379-4e94-9da2-e60056112ea0" width="500" height="500"-->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Tharun D V</h1>
 <h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3>
@@ -47,11 +49,11 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 
 ## **GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px&padding=50px" alt="tharun-dv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px&margin=150px" alt="tharun-dv" /></p>
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
 
 
 
