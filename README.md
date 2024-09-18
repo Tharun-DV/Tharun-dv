@@ -47,7 +47,7 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 
 ## **GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="tharun-dv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px&padding=50px" alt="tharun-dv" /></p>
 
 
 
