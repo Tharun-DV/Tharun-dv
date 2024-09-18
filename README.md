@@ -1,24 +1,21 @@
+Here is the modified version with added spaces in the GitHub stats section:
 
 <h1 align="center">Hi 👋, I'm Tharun D V</h1>
 <h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3>
 
-**About Me**
-------------
+## **About Me**
 
 I'm a dedicated Computer Science student with a passion for technology. I have a solid foundation in Python and am currently exploring Rust. My interests include Artificial Intelligence, Linux, and Cybersecurity, particularly red teaming. I also use Docker to streamline development and deployment processes, and I'm excited to drive positive change through technology.
 
-**Profile Views**
-----------------
+## **Profile Views**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindbender&label=Profile%20views&color=0e75b6&style=flat" alt="mindbender" /> </p>
 
-**Trophies**
--------------
+## **Trophies**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-dv&theme=discord" alt="tharun-dv" /></a> </p>
 
-**Connect with me:**
---------------------
+## **Connect with me:**
 
 <p align="left">
   <a href="https://twitter.com/tharun_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharun_dv" height="30" width="40" /></a>
@@ -30,8 +27,7 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
   <a href="https://www.leetcode.com/radhikatharun02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radhikatharun02" height="30" width="40" /></a>
 </p>
 
-**Languages and Tools:**
-------------------------
+## **Languages and Tools:**
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" alt="bash" width="40" height="40"/> </a>
@@ -49,26 +45,22 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-**GitHub Stats**
---------------
+## **GitHub Stats**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="tharun-dv" /</p>
-<br />
-<br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&card_width=500px" alt="tharun-dv" /></p>
+
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
-<br />
-<br />
-<br />
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&theme=radical" alt="tharun-dv" /></p>
 
-**LeetCode Stats**
------------------
+## **LeetCode Stats**
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)
 
-**GitHub Activity Graph**
--------------------------
+## **GitHub Activity Graph**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THARUN-DV&bg_color=d1e9ff&color=000000&line=4c8a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
