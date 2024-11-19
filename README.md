@@ -69,11 +69,6 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/THARUN-DV/THARUN-DV/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## **GitHub Activity Graph**
 
