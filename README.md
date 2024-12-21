@@ -67,7 +67,8 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 
 ## **LeetCode Stats**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)-->
+[![radhikatharun02's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=radhikatharun02&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 ## **GitHub Activity Graph**
