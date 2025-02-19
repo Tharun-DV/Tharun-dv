@@ -55,6 +55,8 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
+## **TryHackMe Stats**
+![tryhackme stats](https://raw.githubusercontent.com/tharundv.cs22/tharundv.cs22/master/assets/thm_propic.png)
 ## **GitHub Stats**
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&hide_progress=false&card_width=500px&margin=150px" alt="tharun-dv" /></p>
