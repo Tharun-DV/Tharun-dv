@@ -57,13 +57,13 @@ I'm a dedicated Computer Science student with a passion for technology. I have a
 
 
 
-## **GitHub Stats**
+<!--## **GitHub Stats**-->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&hide_progress=false&card_width=500px&margin=150px" alt="tharun-dv" /></p>
+<!--p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&hide_progress=false&card_width=500px&margin=150px" alt="tharun-dv" /></p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="0" width="55%">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="0" width="55%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="0" width="55%"-->
 
 <!--p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&theme=radical" alt="tharun-dv" /></p-->
 
