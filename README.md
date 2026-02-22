@@ -1,78 +1,148 @@
-<h1 align="center">Hi 👋, I'm Tharun D V</h1>
-<!--h3 align="center">A C0MPUT3R SC13NC3 ENGINEER</h3-->
+<div align="center">
 
-<!--img src="https://github.com/user-attachments/assets/3ec40ab4-0379-4e94-9da2-e60056112ea0" width="500" height="500"-->
-<p align=center>
-<!--img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&size=40&color=%2324A500&height=67&width=1000&duration=3000&center=true&lines=%F0%9F%85%B2%F0%9F%85%BE%F0%9F%85%BC%F0%9F%85%BF%F0%9F%86%84%F0%9F%86%83%F0%9F%85%B4%F0%9F%86%81%20%F0%9F%86%82%F0%9F%85%B2%F0%9F%85%B8%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B2%F0%9F%85%B4%20%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81"-->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&size=40&color=%2324A500&height=67&width=1000&duration=3000&center=true&lines=%F0%9F%85%B20%F0%9F%85%BC%F0%9F%85%BF%F0%9F%86%84%F0%9F%86%833%F0%9F%86%81%20%F0%9F%86%82%F0%9F%85%B213%F0%9F%85%BD%F0%9F%85%B23%20%F0%9F%85%B4%F0%9F%85%BD%F0%9F%85%B6%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%81">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tharun%20D%20V&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Cybersecurity%20%7C%20AI%20%7C%20Red%20Team&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=24A500&center=true&vCenter=true&width=700&height=60&lines=Computer+Science+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Linux+%26+Cybersecurity+Explorer+%F0%9F%94%92;Red+Teaming+%7C+Docker+%7C+Rust+%F0%9F%A6%80;M1NDB3ND3R+%F0%9F%A7%A0" alt="Typing SVG" />
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br/>
+
+<a href="https://dv08.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://blog.dv08.in"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=mindbender&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧑‍💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270"/>
+
+- 🎓 CS student passionate about **security and systems**
+- 🔭 Building **[Offensive-Rust](https://github.com/Tharun-DV/Offensive-Rust)**, **[Dark-WebCrawler](https://github.com/Tharun-DV/Dark-WebCrawler)** & **[NVD-API](https://github.com/Tharun-DV/NVD-API)**
+- 🌱 Deep diving into **Rust** — from HTTP servers to SHA256 crackers
+- 🛡️ Passionate about **Red Teaming** and offensive security
+- 🐳 Containerizing workflows with **Docker** and **Podman**
+- 🌐 Portfolio: **[dv08.in](https://dv08.in)** · Blog: **[blog.dv08.in](https://blog.dv08.in)**
+- 💬 Ask me about **Python, Rust, Linux, or Red Teaming**
+- ⚡ *I write offensive tools in Rust because Python is too readable* 🦀
+
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://dv08.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://blog.dv08.in" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/tharun-dv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/tharun_dv" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/___mindbender___" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+<p align="center">
+  <a href="https://www.leetcode.com/radhikatharun02" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://codeforces.com/profile/radhikatharun02" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/radhikatharun02" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/mindbender" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+## 🛠️ Tech Stack
 
-## **About Me**
+<div align="center">
 
-I'm a dedicated Computer Science student with a passion for technology. I have a solid foundation in Python and am currently exploring Rust. My interests include Artificial Intelligence, Linux, and Cybersecurity, particularly red teaming. I also use Docker to streamline development and deployment processes, and I'm excited to drive positive change through technology.
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,rust,go,c,cpp,java,bash&perline=10" />
 
-## **Profile Views**
+### 🔧 DevOps & Systems
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,github,gitlab,neovim,vim&perline=10" />
+<!--img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/-->
+<br/><br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindbender&label=Profile%20views&color=0e75b6&style=flat" alt="mindbender" /> </p>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=6" />
 
-## **Trophies**
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=vue,html,css&perline=6" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharun-dv&theme=discord" alt="tharun-dv" /></a> </p>
+### 🔐 Cybersecurity
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/ffuf-black?style=for-the-badge&logo=gnubash&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Feroxbuster-B7410E?style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logo=perl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nuclei-00AEF0?style=for-the-badge&logo=projectdiscovery&logoColor=white"/>
 
-## **Connect with me:**
+</div>
 
-<p align="left">
-  <a href="https://twitter.com/tharun_dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tharun_dv" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tharun-dv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun-dv" height="30" width="40" /></a>
-  <a href="https://instagram.com/___mindbender___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___mindbender___" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/mindbender" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mindbender" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/radhikatharun02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="radhikatharun02" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/radhikatharun02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="radhikatharun02" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/radhikatharun02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="radhikatharun02" height="30" width="40" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## **Languages and Tools:**
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=50ZQHdJTmPqw&format=png&color=000000" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=AeV543ttZrcT&format=png&color=000000" alt="rust" width="40" height="40"/> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
+<div align="center">
 
+| Project | Description | Stack |
+|:-------:|:------------|:-----:|
+| [🦀 Offensive-Rust](https://github.com/Tharun-DV/Offensive-Rust) | Offensive security toolkit written in Rust | `Rust` `Security` |
+| [🌐 Dark-WebCrawler](https://github.com/Tharun-DV/Dark-WebCrawler) | Dark web crawler routed through Tor | `Python` `Tor` |
+| [🔑 Sha256_Cracker](https://github.com/Tharun-DV/Sha256_Cracker) | SHA256 hash cracker built in Rust | `Rust` `Cryptography` |
+| [🖥️ HTTP-SERVER](https://github.com/Tharun-DV/HTTP-SERVER) | HTTP server implementation from scratch | `Rust` `Networking` |
+| [🛡️ NVD-API](https://github.com/Tharun-DV/NVD-API) | National Vulnerability Database interface | `Python` `CVE` |
 
+</div>
 
-<!--## **GitHub Stats**-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharun-dv&show_icons=true&locale=en&theme=radical&layout=compact&hide_progress=false&card_width=500px&margin=150px" alt="tharun-dv" /></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="0" width="55%">
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharun-dv&show_icons=true&locale=en&theme=radical" alt="tharun-dv" /></p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="0" width="55%"-->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharun-dv&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharun-dv&theme=radical" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharun-dv&theme=radical" width="32%"/>
+</div>
 
-<!--p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&theme=radical" alt="tharun-dv" /></p-->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dv&theme=radical&hide_border=true&font=JetBrains+Mono" width="65%" />
+</div>
 
-## **LeetCode Stats**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--![LeetCode Stats](https://leetcard.jacoblin.cool/radhikatharun02?theme=nord&font=JetBrains%20Mono)-->
-[![radhikatharun02's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=radhikatharun02&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+## 🐍 Contribution Snake
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/THARUN-DV/THARUN-DV/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
 
-## **GitHub Activity Graph**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=THARUN-DV&bg_color=d1e9ff&color=000000&line=4c8a9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=tharun-dv&theme=radical&no-frame=true&row=1&column=7&rank=-UNKNOWN,-C" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧩 LeetCode Stats
+
+<div align="center">
+  <a href="https://leetcode.com/radhikatharun02">
+    <img src="https://leetcard.jacoblin.cool/radhikatharun02?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THARUN-DV&bg_color=141321&color=a9fef7&line=626de8&point=f8d847&area=true&hide_border=true&custom_title=Tharun's%20Contribution%20Graph" width="95%" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
